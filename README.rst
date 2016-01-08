@@ -27,3 +27,7 @@ for _, __, filenames in os.walk(DOCUMENTATION_SOURCE_DIR):
 
 
             via: http://www.pythonbackend.com/topic/1268949527
+
+
+
+            <script src="https://gist.github.com/brianjking/e4a9176a05c0ec0ac40f.js"></script>
