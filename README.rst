@@ -1,7 +1,10 @@
 .. image:: https://travis-ci.org/brianjking/sphinx-test.svg?branch=master
     :target: https://travis-ci.org/brianjking/sphinx-test
 
-
+.. image:: https://readthedocs.org/projects/bk-test/badge/?version=latest
+:target: http://bk-test.readthedocs.org/en/latest/?badge=latest
+:alt: Documentation Status
+                
 
 ## TEST
 
