@@ -26,8 +26,8 @@ Information about development is also available:
    :maxdepth: 2
    :caption: Overview
 
-   getting_started
-   versions
+   mission-statement
+   org-structure
    builds
    features
    support
