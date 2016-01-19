@@ -1,4 +1,4 @@
-Welcome to Read The Docs
+Welcome to The Thing
 ========================
 
 `Read the Docs`_ hosts documentation for the open source community.
@@ -7,23 +7,11 @@ We pull your code from your Subversion_, Bazaar_, Git_, and Mercurial_ repositor
 Then we build documentation and host it for you.
 Think of it as *Continuous Documentation*.
 
-The code is open source, and `available on github`_.
-
-.. _Read the docs: http://readthedocs.org/
-.. _Sphinx: http://sphinx.pocoo.org/
-.. _reStructuredText: http://sphinx.pocoo.org/rest.html
-.. _CommonMark: http://commonmark.org/
-.. _Markdown: http://daringfireball.net/projects/markdown/syntax
-.. _Subversion: http://subversion.tigris.org/
-.. _Bazaar: http://bazaar.canonical.com/
-.. _Git: http://git-scm.com/
-.. _Mercurial: http://mercurial.selenic.com/
-.. _available on github: http://github.com/rtfd/readthedocs.org
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`user-docs`
-* :ref:`feature-docs`
+* :ref:`overview`
+* :ref:`setup-club`
 * :ref:`about-docs`
 
 Information about development is also available:
@@ -32,11 +20,11 @@ Information about development is also available:
 * :ref:`design-docs`
 * :ref:`ops-docs`
 
-.. _user-docs:
+.. _overview:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: Overview
 
    getting_started
    versions
@@ -47,12 +35,12 @@ Information about development is also available:
    yaml-config
 
 
-.. _feature-docs:
+.. _setup-club:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Feature Documentation
+   :caption: Setup Club
 
    webhooks
    badges
