@@ -14,11 +14,6 @@ The main documentation for the site is organized into a couple sections:
 * :ref:`setup-club`
 * :ref:`about-docs`
 
-Information about development is also available:
-
-* :ref:`dev-docs`
-* :ref:`design-docs`
-* :ref:`ops-docs`
 
 .. _overview:
 
@@ -73,48 +68,3 @@ Information about development is also available:
    settings
    i18n
    issue-labels
-
-.. _business-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Business Documentation
-
-   business/index
-
-.. _custom-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Custom Install Documentation
-
-   custom_installs/index
-
-.. _design-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Designer Documentation
-
-   design
-   theme
-
-
-.. _about-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: About Read the Docs
-
-   open-source-philosophy
-   sponsors
-   talks
-
-
-.. _ops-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Operations Documentation
-
-   rtfd
