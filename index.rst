@@ -37,7 +37,7 @@ The main documentation for the site is organized into a couple sections:
    :glob:
    :caption: Setup Club
 
-   webhooks
+   setup-a-club
    badges
    alternate_domains
    localization
